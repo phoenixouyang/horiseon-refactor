@@ -15,7 +15,7 @@ N/A
 The deployed webpage can be accessed [here]().
 Horiseon's services can be viewed at the navigation bar at the top of the page:
 
-![Navigation bar](./Develop/assets/images/navigation-usage.png)
+![Navigation bar](./docs/assets/images/navigation-usage.png)
 
 Click on a service to learn more details about what is offered, and how it can help your business.
 
