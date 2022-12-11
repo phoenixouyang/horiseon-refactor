@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-The deployed webpage can be accessed [here]().
+The deployed webpage can be accessed [here](https://pholobo.github.io/horiseon-refactor/#social-media-marketing).
 Horiseon's services can be viewed at the navigation bar at the top of the page:
 
 ![Navigation bar](./docs/assets/images/navigation-usage.png)
